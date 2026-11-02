@@ -1,0 +1,11 @@
+{
+  "name": "ASCEND \u2014 Fitness Transformation",
+  "short_name": "ASCEND",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090b0e",
+  "theme_color": "#090b0e",
+  "description": "Offline-first personal fitness, workout, nutrition and physique tracker.",
+  "icons": []
+}
